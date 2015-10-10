@@ -1,11 +1,11 @@
 {
-  "name": "react-packery-mixin",
-  "version": "0.1.9",
+  "name": "nexts-react-packery-mixin",
+  "version": "0.0.1",
   "main": "./lib/index",
-  "description": "A packery mixin for React.js",
+  "description": "A packery mixin for React.js (updated)",
   "dependencies": {
-    "packery": "eiriklv/packery",
-    "imagesloaded": "eiriklv/imagesloaded"
+    "imagesloaded": "^3.1.8",
+    "packery": "^1.4.3"
   },
   "devDependencies": {},
   "scripts": {
