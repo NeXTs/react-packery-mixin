@@ -1,7 +1,7 @@
 {
   "name": "nexts-react-packery-mixin",
   "version": "0.0.1",
-  "main": "./lib/index",
+  "main": "./lib/index", 
   "description": "A packery mixin for React.js (updated)",
   "dependencies": {
     "imagesloaded": "^3.1.8",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/eiriklv/react-packery-mixin.git"
+    "url": "git://github.com/NeXTs/react-packery-mixin.git"
   },
   "keywords": [
     "react",
