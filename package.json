@@ -1,10 +1,10 @@
 {
   "name": "nexts-react-packery-mixin",
-  "version": "0.0.2",
-  "main": "./lib/index", 
+  "version": "0.0.3",
+  "main": "./lib/index",
   "description": "A packery mixin for React.js (updated)",
   "dependencies": {
-    "imagesloaded": "^3.1.8",
+    "imagesloaded": "^3.2.0",
     "packery": "^1.4.3"
   },
   "devDependencies": {},
