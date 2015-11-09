@@ -53,6 +53,13 @@ module.exports = React.createClass({
     }
 });
 ```
+# React + Webpack
+
+Due to inadequate handling of dependencies between packery module and webpack, you have to handle packery dependencies manually.
+Take a look to this [snippet](https://github.com/metafizzy/packery/issues/239#issuecomment-74073208)
+
+# React + Webpack + npm ^3
+[Solution](https://github.com/metafizzy/packery/issues/239#issuecomment-144992512)
 
 # License information (Metafizzy)
 
